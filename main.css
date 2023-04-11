@@ -1,0 +1,111 @@
+* {
+  margin-left: 40px;
+  margin-right: 40px;
+  background-color: rgb(136, 130, 219);
+}
+
+div {
+  margin: 0;
+}
+
+ h1, h2 {
+  margin-top: 10px;
+  margin-bottom: 0;
+  display: flex;
+  justify-content: center;
+ }
+
+ h3 {
+  margin-bottom: 0px;
+  margin-left: 0px;
+  display: inline-block;
+ }
+
+ hr {
+  margin: 0px;
+  position: relative;
+ 
+ }
+
+ #firstjob {
+  margin: 0;
+  margin-top: 10px;
+  font-family: sans-serif;
+  border: 2px;
+  border-style: solid;
+  border-color: aqua;
+  box-sizing: border-box;
+ }
+
+ .job {
+  margin-top: 0;
+  margin-left: 0;
+  color: rgb(17, 67, 17);
+ }
+
+ .jobtitle {
+  margin-top: 0;
+  margin-left: 0;
+  color: rgb(17, 67, 17);
+ }
+
+ .date {
+  margin-top: 0;
+  margin-right: 0;
+  position: absolute;
+  right: 90px;
+  color: rgb(17, 67, 17);
+ }
+
+ .location {
+  margin: 0;
+  position: absolute;
+  right: 90px;
+  color: rgb(17, 67, 17);
+ }
+
+ ul {
+  margin: 0;
+  margin-left: 40px;
+ }
+
+ li {
+  margin: 0 0 0 0;
+ }
+
+ #secondjob {
+  margin: 0;
+  margin-top: 10px;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  border: 2px;
+  border-style: dotted;
+  border-color: rgb(111, 0, 255);
+  box-sizing: border-box;
+ }
+
+ .job2 {
+  margin-top: 0;
+  margin-left: 0;
+  color: rgb(226, 15, 187);
+ }
+
+ .jobtitle2 {
+  margin-top: 0;
+  margin-left: 0;
+  color: rgb(226, 15, 187);
+ }
+
+ .date2 {
+  margin-top: 0;
+  margin-right: 0;
+  position: absolute;
+  right: 90px;
+  color: rgb(226, 15, 187);
+ }
+
+ .location2 {
+  margin: 0;
+  position: absolute;
+  right: 90px;
+  color: rgb(226, 15, 187);
+ }
